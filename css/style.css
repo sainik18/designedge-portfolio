@@ -1,0 +1,27 @@
+.main-banner {
+	box-shadow: none;
+}
+.bannerHeader {
+	font-weight: 500;
+}
+.redStrike:hover {
+	color:#ea1d76;
+	text-decoration: line-through;
+}
+
+.pt6rem{
+	padding-top: 6rem!important;
+}
+
+.myWorks {
+	margin: auto;
+}
+
+.myWorks .card {
+	margin-bottom: 20px;
+}
+
+.myWords {
+	width: 98%;
+	margin: auto;
+}
