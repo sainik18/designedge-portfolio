@@ -25,3 +25,18 @@
 	width: 98%;
 	margin: auto;
 }
+
+.externalSvg {
+	margin-left: 15px;
+	width: 20px;
+	margin-top: -8px;
+}
+
+.line {
+	border-bottom: 1px solid gray;
+	width:40px;
+}
+
+.w20 {
+	width: 20px;
+}
