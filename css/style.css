@@ -1,3 +1,6 @@
+.navHeader {
+	background: #ffffff;
+}
 .main-banner {
 	box-shadow: none;
 }
@@ -5,8 +8,12 @@
 	font-weight: 500;
 }
 .redStrike:hover {
-	color:#ea1d76;
+	color: #ea1d76;
 	text-decoration: line-through;
+}
+
+.fgrey {
+	color: #a2a4a5;
 }
 
 .pt6rem{
@@ -39,4 +46,17 @@
 
 .w20 {
 	width: 20px;
+}
+
+a {
+	color: black;
+}
+
+.section {
+    width: 98%;
+    margin: auto;
+}
+
+.mainSection {
+	margin-top: 10rem !important;
 }
